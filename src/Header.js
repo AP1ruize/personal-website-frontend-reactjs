@@ -6,7 +6,6 @@ function Header(props){
 
     
         return(
-            // <Router>
                 <div className='Header'>
                     <span className='menuButton' onClick={props.onToggleSideBar}>&#9776;</span>
                     <h1>Memorial</h1>
@@ -18,7 +17,6 @@ function Header(props){
                         }
                     </div>
                 </div>
-            // </Router>
             
         )
     
