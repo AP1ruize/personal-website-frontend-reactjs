@@ -2,7 +2,7 @@
   text-align: center;
 }
 
-.App-logo {
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +35,19 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.MainBody {
+  /* padding: 16px; */
+  /* margin: 16px; */
+  transition: 0.5s;
+}
+
+.MainBody_open {
+  /* padding-left: 200px; */
+  /* padding: 16px 16px 16px 216px; */
+  /* margin: 16px 16px 16px 216px; */
+  margin-left: 200px;
+  /* background-color: burlywood; */
+  transition: 0.5s;
 }

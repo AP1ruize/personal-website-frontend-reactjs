@@ -1,0 +1,13 @@
+.menuButton:hover {
+    cursor: pointer;
+}
+
+.Header {
+    text-align: left;
+    background-color: burlywood;
+    padding: 16px;
+}
+
+.userBar {
+    text-align: right;
+}
